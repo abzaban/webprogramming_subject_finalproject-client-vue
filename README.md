@@ -1,4 +1,4 @@
-# webprogramming_subject_finalproject-client-vue
+# [MIGRATED] webprogramming_subject_finalproject-client-vue
 A client-side web app developed for a web programming course.
 
 # Tech stack
